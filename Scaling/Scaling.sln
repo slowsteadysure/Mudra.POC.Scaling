@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "Mudra.POC.Scaling.Azure", "Mudra.POC.Scaling.Azure\Mudra.POC.Scaling.Azure.ccproj", "{ABA567E5-E326-4791-952A-E88917E29847}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mudra.POC.Scaling", "Mudra.POC.Scaling\Mudra.POC.Scaling.csproj", "{DC45B0CF-300F-49FB-910C-98AB8C2C3CE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABA567E5-E326-4791-952A-E88917E29847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA567E5-E326-4791-952A-E88917E29847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA567E5-E326-4791-952A-E88917E29847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA567E5-E326-4791-952A-E88917E29847}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC45B0CF-300F-49FB-910C-98AB8C2C3CE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC45B0CF-300F-49FB-910C-98AB8C2C3CE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC45B0CF-300F-49FB-910C-98AB8C2C3CE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC45B0CF-300F-49FB-910C-98AB8C2C3CE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
