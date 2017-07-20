@@ -103,3 +103,16 @@ D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling\bin\zh-Ha
 D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling\bin\zh-Hant\System.Spatial.resources.dll
 D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling\obj\Release\Mudra.POC.Scaling.dll
 D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling\obj\Release\Mudra.POC.Scaling.pdb
+D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling\bin\ApplicationInsights.config
+D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling\bin\Microsoft.AI.DependencyCollector.dll
+D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling\bin\Microsoft.AI.Web.dll
+D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling\bin\Microsoft.AI.WindowsServer.dll
+D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling\bin\Microsoft.ApplicationInsights.dll
+D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling\bin\Microsoft.AI.DependencyCollector.xml
+D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling\bin\Microsoft.AI.Web.xml
+D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling\bin\Microsoft.AI.WindowsServer.xml
+D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling\bin\Microsoft.ApplicationInsights.xml

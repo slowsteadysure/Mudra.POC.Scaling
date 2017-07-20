@@ -2,6 +2,7 @@ D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\bin
 D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\bin\Debug\ServiceDefinition.csdef
 D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Debug\Mudra.POC.Scaling\bin\Antlr3.Runtime.dll
 D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Debug\Mudra.POC.Scaling\bin\Antlr3.Runtime.pdb
+D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Debug\Mudra.POC.Scaling\bin\ApplicationInsights.config
 D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Debug\Mudra.POC.Scaling\bin\de\Microsoft.Data.Edm.resources.dll
 D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Debug\Mudra.POC.Scaling\bin\de\Microsoft.Data.OData.resources.dll
 D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Debug\Mudra.POC.Scaling\bin\de\Microsoft.Data.Services.Client.resources.dll
@@ -30,6 +31,18 @@ D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj
 D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Debug\Mudra.POC.Scaling\bin\ko\Microsoft.Data.OData.resources.dll
 D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Debug\Mudra.POC.Scaling\bin\ko\Microsoft.Data.Services.Client.resources.dll
 D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Debug\Mudra.POC.Scaling\bin\ko\System.Spatial.resources.dll
+D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Debug\Mudra.POC.Scaling\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Debug\Mudra.POC.Scaling\bin\Microsoft.AI.DependencyCollector.dll
+D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Debug\Mudra.POC.Scaling\bin\Microsoft.AI.DependencyCollector.xml
+D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Debug\Mudra.POC.Scaling\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Debug\Mudra.POC.Scaling\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Debug\Mudra.POC.Scaling\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Debug\Mudra.POC.Scaling\bin\Microsoft.AI.Web.dll
+D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Debug\Mudra.POC.Scaling\bin\Microsoft.AI.Web.xml
+D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Debug\Mudra.POC.Scaling\bin\Microsoft.AI.WindowsServer.dll
+D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Debug\Mudra.POC.Scaling\bin\Microsoft.AI.WindowsServer.xml
+D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Debug\Mudra.POC.Scaling\bin\Microsoft.ApplicationInsights.dll
+D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Debug\Mudra.POC.Scaling\bin\Microsoft.ApplicationInsights.xml
 D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Debug\Mudra.POC.Scaling\bin\Microsoft.AspNet.Identity.Core.dll
 D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Debug\Mudra.POC.Scaling\bin\Microsoft.AspNet.Identity.Core.xml
 D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Debug\Mudra.POC.Scaling\bin\Microsoft.AspNet.Identity.EntityFramework.dll

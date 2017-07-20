@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<serviceModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Mudra.POC.Scaling.Azure" generation="1" functional="0" release="0" Id="dd35940d-caf8-4f34-8ec9-670f52fa2fc1" dslVersion="1.2.0.0" xmlns="http://schemas.microsoft.com/dsltools/RDSM">
+<serviceModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Mudra.POC.Scaling.Azure" generation="1" functional="0" release="0" Id="2ade042f-eaf8-4e16-9e4c-ff7db130852f" dslVersion="1.2.0.0" xmlns="http://schemas.microsoft.com/dsltools/RDSM">
   <groups>
     <group name="Mudra.POC.Scaling.AzureGroup" generation="1" functional="0" release="0">
       <componentports>
@@ -167,14 +167,14 @@
     </group>
   </groups>
   <implements>
-    <implementation Id="d80f2fcb-8758-47f4-90f6-917419d179a0" ref="Microsoft.RedDog.Contract\ServiceContract\Mudra.POC.Scaling.AzureContract@ServiceDefinition">
+    <implementation Id="4de50afc-3f80-44b4-8468-3b11a4b8b817" ref="Microsoft.RedDog.Contract\ServiceContract\Mudra.POC.Scaling.AzureContract@ServiceDefinition">
       <interfacereferences>
-        <interfaceReference Id="2f0899c6-494f-4e3e-b24b-1c73499227da" ref="Microsoft.RedDog.Contract\Interface\Mudra.POC.Scaling:Endpoint1@ServiceDefinition">
+        <interfaceReference Id="bce0cdd8-1868-4e23-9373-19293873ab81" ref="Microsoft.RedDog.Contract\Interface\Mudra.POC.Scaling:Endpoint1@ServiceDefinition">
           <inPort>
             <inPortMoniker name="/Mudra.POC.Scaling.Azure/Mudra.POC.Scaling.AzureGroup/Mudra.POC.Scaling:Endpoint1" />
           </inPort>
         </interfaceReference>
-        <interfaceReference Id="37c6edb0-d148-4dc0-bb67-6ca5cf373624" ref="Microsoft.RedDog.Contract\Interface\Mudra.POC.Scaling:Microsoft.WindowsAzure.Plugins.RemoteForwarder.RdpInput@ServiceDefinition">
+        <interfaceReference Id="4b220e97-b040-4976-90bd-b7dedd37e9ab" ref="Microsoft.RedDog.Contract\Interface\Mudra.POC.Scaling:Microsoft.WindowsAzure.Plugins.RemoteForwarder.RdpInput@ServiceDefinition">
           <inPort>
             <inPortMoniker name="/Mudra.POC.Scaling.Azure/Mudra.POC.Scaling.AzureGroup/Mudra.POC.Scaling:Microsoft.WindowsAzure.Plugins.RemoteForwarder.RdpInput" />
           </inPort>

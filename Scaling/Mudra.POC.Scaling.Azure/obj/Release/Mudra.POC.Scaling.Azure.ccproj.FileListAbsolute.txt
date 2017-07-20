@@ -71,7 +71,16 @@ D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj
 D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Release\Mudra.POC.Scaling\bin\zh-Hant\Microsoft.Data.OData.resources.dll
 D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Release\Mudra.POC.Scaling\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
 D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Release\Mudra.POC.Scaling\bin\zh-Hant\System.Spatial.resources.dll
+D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Release\Mudra.POC.Scaling\bin\ApplicationInsights.config
+D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Release\Mudra.POC.Scaling\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Release\Mudra.POC.Scaling\bin\Microsoft.AI.DependencyCollector.dll
+D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Release\Mudra.POC.Scaling\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Release\Mudra.POC.Scaling\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Release\Mudra.POC.Scaling\bin\Microsoft.AI.Web.dll
+D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Release\Mudra.POC.Scaling\bin\Microsoft.AI.WindowsServer.dll
+D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Release\Mudra.POC.Scaling\bin\Microsoft.ApplicationInsights.dll
 D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\bin\Release\ValidationIssues.xml
+D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Release\Mudra.POC.Scaling\ApplicationInsights.config
 D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Release\Mudra.POC.Scaling\Content\bootstrap.css
 D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Release\Mudra.POC.Scaling\Content\bootstrap.min.css
 D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Release\Mudra.POC.Scaling\Content\Site.css
@@ -82,6 +91,8 @@ D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj
 D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Release\Mudra.POC.Scaling\fonts\glyphicons-halflings-regular.woff
 D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Release\Mudra.POC.Scaling\Global.asax
 D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Release\Mudra.POC.Scaling\packages.config
+D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Release\Mudra.POC.Scaling\Scripts\ai.1.0.7-build00691.js
+D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Release\Mudra.POC.Scaling\Scripts\ai.1.0.7-build00691.min.js
 D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Release\Mudra.POC.Scaling\Scripts\bootstrap.js
 D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Release\Mudra.POC.Scaling\Scripts\bootstrap.min.js
 D:\Work\Projects\BuildUpOn\Mudra.POC.Scaling\Scaling\Mudra.POC.Scaling.Azure\obj\Release\Mudra.POC.Scaling\Scripts\jquery-1.10.2.js
